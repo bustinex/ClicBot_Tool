@@ -9,6 +9,11 @@ Includes assembly mode, module structure inspection, animation editor, joystick 
 
 Download the latest **Windows EXE** from the **Releases** section.
 
+**Windows security notice (SmartScreen / Defender):**  
+This EXE is currently **not code-signed**, so Windows may warn you (SmartScreen) or quarantine it.  
+If you downloaded it from the this Releases page, you can restore it in Windows Security and choose “Run anyway” when prompted.  
+Donations help me purchase a signing certificate to remove these warnings in future builds.
+
 ---
 
 ## What is it?
