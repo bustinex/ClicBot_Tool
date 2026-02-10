@@ -45,6 +45,13 @@ https://www.paypal.com/ncp/payment/EXJ4FY2XW2KLW
 
 send me a privare message with "CB1-C-ABCDEFGHI ECC.." and paypal name. 
 
+The activation process is **not automatic**.
+
+Please allow some time for me to respond after your donation request.  
+If you are in a different time zone, I may simply be sleeping 😊
+
+Thank you for your patience and understanding.
+
 ---
 
 ## Download
