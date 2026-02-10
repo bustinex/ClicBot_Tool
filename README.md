@@ -87,3 +87,12 @@ If you need clarification, additional information, or support:
 Feedback, bug reports, and suggestions are always welcome and help improve the project.
 
 Thank you for your understanding and for supporting **ClicBot Dev Tools** 🚀
+
+## License
+
+This software is distributed under a **non-commercial license**.
+
+Selling, reselling, or redistributing this software for commercial purposes is **strictly prohibited**.
+
+Voluntary donations to support the project are allowed.
+See the `LICENSE` file for full details.
