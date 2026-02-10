@@ -228,34 +228,34 @@ ssh -i clicbot_key root@IP_CLICBOT
 
 ---
 
-## 10. Risoluzione problemi comuni
+## 10. Common Troubleshooting
 
-### Il robot non si connette
-- Verifica che PC e robot siano sulla stessa rete
-- Controlla IP e porta
-- Riavvia il robot e l’app
+### The robot does not connect
+- Make sure the PC and the robot are on the same network
+- Check the IP address and port
+- Restart the robot and the application
 
-### Il joystick non funziona
-- Assicurati che il controller sia collegato prima di avviare l’app
-- Prova a riavviare l’app
+### The joystick does not work
+- Make sure the controller is connected before starting the application
+- Try restarting the application
 
-### I movimenti non vengono salvati
-- Assicurati di aver eseguito la modalità **Assemblaggio**
-- Ripeti la procedura di programmazione
-
----
-
-## 11. Supporto
-
-Per segnalare problemi o suggerire miglioramenti:
-- usa il tab **Issues** su GitHub
+### Movements are not saved
+- Make sure **Assembly Mode** has been completed
+- Repeat the programming procedure
 
 ---
 
-## Note finali
+## 11. Support
 
-- L’applicazione è in continuo sviluppo
-- Alcune funzioni possono cambiare o migliorare nel tempo
-- Il file EXE richiede una **chiave di attivazione** per l’uso completo
+To report issues or suggest improvements:
+- use the **Issues** tab on GitHub
 
-Grazie per usare **ClicBot Dev Tools** 🚀
+---
+
+## Final Notes
+
+- The application is under continuous development
+- Some features may change or improve over time
+- The EXE requires an **activation key** for full functionality
+
+Thank you for using **ClicBot Dev Tools** 🚀
