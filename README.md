@@ -66,3 +66,24 @@ The source code is currently **private**.
 ## Support / Issues
 
 Use the **Issues** tab to report bugs or request features.
+
+## Final Notes and Disclaimer
+
+- **This application is currently under active development.**
+- Some parts of the application **may not be fully translated**.
+- Some features **may not work as expected**, may work incorrectly, or may be incomplete.
+- The user interface and workflows **may change over time** as the project evolves.
+
+This application is the result of an **ongoing and evolving personal project**.  
+As such, some aspects of its usage **may not be immediately clear or fully documented**.
+
+The author **does not take responsibility for improper or unintended use** of the application, nor for any damage or issues resulting from such use.  
+Use the application **at your own risk** and with appropriate care.
+
+If you need clarification, additional information, or support:
+- feel free to open an **Issue on GitHub**
+- or contact the author through the project page
+
+Feedback, bug reports, and suggestions are always welcome and help improve the project.
+
+Thank you for your understanding and for supporting **ClicBot Dev Tools** 🚀
