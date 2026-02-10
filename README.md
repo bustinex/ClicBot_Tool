@@ -43,6 +43,8 @@ Thank you for supporting the project ❤️
 
 https://www.paypal.com/ncp/payment/EXJ4FY2XW2KLW
 
+send me a privare message with "CB1-C-ABCDEFGHI ECC.." and paypal name. 
+
 ---
 
 ## Download
