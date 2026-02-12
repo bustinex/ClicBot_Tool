@@ -56,7 +56,7 @@ Developing and maintaining this tool requires significant **time and financial r
 
 Thank you for supporting the project ❤️
 
-https://www.paypal.com/ncp/payment/EXJ4FY2XW2KLW
+https://paypal.me/bustinex
 
 send me a privare message with "CB1-C-ABCDEFGHI ECC.." and paypal name. 
 
