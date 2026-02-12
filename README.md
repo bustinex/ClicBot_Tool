@@ -1,3 +1,13 @@
+⚠️ **Important Notice**
+
+I am not a professional software developer.
+ClicBot Dev Tools started as a personal experimental project to organize my research and build my own block-based system.
+
+The interface and structure may not follow standard software conventions, and some parts may feel confusing.
+This project evolved naturally over time as new features were added.
+
+It is shared to help others, but please understand that it is an evolving personal tool.
+
 # ClicBot Dev Tools
 
 Desktop application for debugging, programming, and driving ClicBot robots.  
