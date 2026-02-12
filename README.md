@@ -8,6 +8,9 @@ This project evolved naturally over time as new features were added.
 
 It is shared to help others, but please understand that it is an evolving personal tool.
 
+Discord: https://discord.gg/q2KFVX2sc3
+Reddit: https://www.reddit.com/user/Ancient_Price4526/
+
 # ClicBot Dev Tools
 
 Desktop application for debugging, programming, and driving ClicBot robots.  
