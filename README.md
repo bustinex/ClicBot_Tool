@@ -42,31 +42,14 @@ ClicBot Dev Tools is a desktop application for debugging, programming, and drivi
 
 ---
 
-## Activation & Support
+## Support
 
-To use the full version of **ClicBot Dev Tools**, an **activation key** is required.
-
-The activation key is provided in exchange for a **€2 donation**.
-
-This is **not intended as a commercial product** and not meant for profit.  
-The donation helps support the project and contributes to:
-
-- Development time  
-- Hardware and testing costs  
-- Ongoing maintenance and improvements  
 
 Developing and maintaining this tool requires significant **time and financial resources**, and even a small contribution helps keep the project alive and evolving.
 
 Thank you for supporting the project ❤️
 
 https://paypal.me/bustinex
-
-send me a privare message with "CB1-C-ABCDEFGHI ECC.." and paypal name. 
-
-The activation process is **not automatic**.
-
-Please allow some time for me to respond after your donation request.  
-If you are in a different time zone, I may simply be sleeping 😊
 
 Thank you for your patience and understanding.
 
